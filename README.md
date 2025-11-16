@@ -60,4 +60,4 @@ tensorflow==2.7.0
 Feel free to **fork** the repo, submit **pull requests**, or suggest ideas to improve the model or app! 🌟
 
 ---
-
+@Nuthan-Shiva-Vaibhav
